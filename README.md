@@ -1,4 +1,4 @@
-# team-name_Group-018
+# Financial-Advisor-Dashboard
 
 Project Task Summary: Group-018_Financial-Advisor-Dashboard
 This document provides a narrative breakdown of the activities, milestones, and status for each of the four phases in the Client Portfolio Risk Analysis Dashboard project.
