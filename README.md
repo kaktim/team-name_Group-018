@@ -11,14 +11,13 @@ Phase 1: Initiation & Planning(Weeks 1–3 | Deadline: Friday, December 19)
 The Initiation and Planning phase focuses on establishing a firm foundation for the project. All critical prerequisite steps for resource and security sign-off have been successfully completed.
 
 
-●	Tasks Completed:
+●	Tasks:
 
 ○	P1.1 Finalize Project Team: The core project team, including the Project Manager (PM), Developer (Dev), Data Scientist (DS), and Subject Matter Expert (SME), has been fully assigned, and roles are clear.
 
 ○	P1.2 Secure Vendor Licenses: Essential tools, including licenses for the Business Intelligence (BI) software and the Market Data API, have been secured for the development team.
 
 ○	P1.3 (CRITICAL PATH) Finalize Data Requirements & Security Protocol: This crucial Critical Path task involved detailed coordination with IT Security and Legal/Compliance to confirm all data requirements and security protocols, ensuring regulatory adherence before any coding commenced.
-
 
 ○	P1.4 Conduct Project Kick-Off Meeting: The formal project commencement, where objectives, the final timeline, and roles will be formally presented, is still pending.
 
@@ -31,7 +30,7 @@ Phase 2: Definition & Design(Weeks 4–10 | Deadline: Friday, January 23)
 
 The Definition and Design phase is where the technical backbone and core business logic for risk assessment were developed. The three Critical Path tasks in this phase are now complete, bringing the project to the verge of prototyping review.
 
-Tasks Completed:
+Tasks:
 
 ○	P2.1 Develop Dashboard Wireframes and UI/UX Mockups: The BI Specialist successfully created the visual plan for the advisor interface, including wireframes and mockups.
 
@@ -49,13 +48,11 @@ Phase 3: Execution & Development(Weeks 11–12 | Deadline: Friday, February 6)
 
 The Execution and Development phase focused on integrating the front and back ends and conducting the first internal rollout to validate the system's training components and usability.
 
-Tasks Completed:
+Tasks :
 
 ○	P3.1 Integrate R-DIF data feeds with the front-end dashboard prototype: The successful connection of the R-DIF data pipeline to the user interface has been completed.
 
 ○	P3.2 (CRITICAL PATH) Implement Advisor Training and Feedback Loop: This Critical Path activity is complete, demonstrating the ability to conduct an internal pilot/workshop. This was essential for preparing compliance training material and identifying initial usability issues.
-
-Tasks Pending:
 
 ○	P3.3 Address all feedback... (Feature Freeze): The team must now work through the feedback collected during the internal pilot and finalize all dashboard features, leading to a Feature Freeze.
 
@@ -69,13 +66,11 @@ Phase 4: Deployment & Closure(Weeks 13–14 | Deadline: Friday, February 27)
 
 The final phase ensures the system meets user needs and all regulatory requirements before the formal launch.
 
-Tasks Completed:
+Tasks:
 
 ○	P4.1 Conduct comprehensive UAT: User Acceptance Testing with a dedicated group of 5–10 advisors has been completed, achieving final sign-off on functionality by end-users.
 
 ○	P4.2 (CRITICAL PATH) Final Compliance Audit and Go-Live Approval: This final Critical Path task, securing the required regulatory sign-off for using the system with client data, has been successfully completed.
-
-Tasks Pending:
 
 ○	P4.3 Final Deployment to Production Environment: The actual process of making the dashboard available to all advisors in the live environment is still pending.
 
