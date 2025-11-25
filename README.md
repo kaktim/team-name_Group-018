@@ -19,7 +19,6 @@ The Initiation and Planning phase focuses on establishing a firm foundation for 
 
 ○	P1.3 (CRITICAL PATH) Finalize Data Requirements & Security Protocol: This crucial Critical Path task involved detailed coordination with IT Security and Legal/Compliance to confirm all data requirements and security protocols, ensuring regulatory adherence before any coding commenced.
 
-Task Pending:
 
 ○	P1.4 Conduct Project Kick-Off Meeting: The formal project commencement, where objectives, the final timeline, and roles will be formally presented, is still pending.
 
@@ -40,7 +39,6 @@ Tasks Completed:
 
 ○	P2.3 (CRITICAL PATH) Develop Core Portfolio Risk Scoring Models: The Data Scientist completed the development of the core business logic, including models for assessing Volatility, Diversification, and Sector Exposure.
 
-Task Pending:
 ○	P2.4 Prototype Review: The team needs to conduct a review of the interactive dashboard prototype with the Financial Advisor SME to gather early feedback on its functionality and usability.
 
 ●	Deliverable: Interactive Dashboard Prototype & R-DIF.
